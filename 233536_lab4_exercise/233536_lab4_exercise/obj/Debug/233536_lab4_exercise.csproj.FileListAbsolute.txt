@@ -1,0 +1,7 @@
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\bin\Debug\233536_lab4_exercise.exe.config
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\bin\Debug\233536_lab4_exercise.exe
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\bin\Debug\233536_lab4_exercise.pdb
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\obj\Debug\233536_lab4_exercise.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\obj\Debug\233536_lab4_exercise.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\obj\Debug\233536_lab4_exercise.exe
+C:\Users\lamia fatima\source\repos\233536_lab4_exercise\233536_lab4_exercise\obj\Debug\233536_lab4_exercise.pdb
