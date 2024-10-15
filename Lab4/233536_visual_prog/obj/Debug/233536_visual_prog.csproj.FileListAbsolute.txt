@@ -1,0 +1,7 @@
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\bin\Debug\233536_visual_prog.exe.config
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\bin\Debug\233536_visual_prog.exe
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\bin\Debug\233536_visual_prog.pdb
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\obj\Debug\233536_visual_prog.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\obj\Debug\233536_visual_prog.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\obj\Debug\233536_visual_prog.exe
+C:\Users\lamia fatima\source\repos\233536_visual_prog\233536_visual_prog\obj\Debug\233536_visual_prog.pdb
