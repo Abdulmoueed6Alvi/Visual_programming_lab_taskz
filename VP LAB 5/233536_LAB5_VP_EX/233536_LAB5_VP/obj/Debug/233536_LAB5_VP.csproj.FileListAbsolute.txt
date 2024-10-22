@@ -1,0 +1,7 @@
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\bin\Debug\233536_LAB5_VP.exe.config
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\bin\Debug\233536_LAB5_VP.exe
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\bin\Debug\233536_LAB5_VP.pdb
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\obj\Debug\233536_LAB5_VP.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\obj\Debug\233536_LAB5_VP.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\obj\Debug\233536_LAB5_VP.exe
+C:\Users\lamia fatima\source\repos\233536_LAB5_VP\233536_LAB5_VP\obj\Debug\233536_LAB5_VP.pdb
