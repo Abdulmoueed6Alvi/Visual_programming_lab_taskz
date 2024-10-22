@@ -1,0 +1,7 @@
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\bin\Debug\233536_activity.exe.config
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\bin\Debug\233536_activity.exe
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\bin\Debug\233536_activity.pdb
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\obj\Debug\233536_activity.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\obj\Debug\233536_activity.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\obj\Debug\233536_activity.exe
+C:\Users\lamia fatima\source\repos\233536_activity\233536_activity\obj\Debug\233536_activity.pdb
