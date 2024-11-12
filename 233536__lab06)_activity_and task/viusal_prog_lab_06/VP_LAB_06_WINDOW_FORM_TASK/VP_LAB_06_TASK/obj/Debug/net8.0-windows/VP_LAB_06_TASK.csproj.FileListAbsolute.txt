@@ -1,0 +1,16 @@
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\bin\Debug\net8.0-windows\VP_LAB_06_TASK.exe
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\bin\Debug\net8.0-windows\VP_LAB_06_TASK.deps.json
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\bin\Debug\net8.0-windows\VP_LAB_06_TASK.runtimeconfig.json
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\bin\Debug\net8.0-windows\VP_LAB_06_TASK.dll
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\bin\Debug\net8.0-windows\VP_LAB_06_TASK.pdb
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.Form1.resources
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.csproj.GenerateResource.cache
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.AssemblyInfoInputs.cache
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.AssemblyInfo.cs
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.dll
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\refint\VP_LAB_06_TASK.dll
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.pdb
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\VP_LAB_06_TASK.genruntimeconfig.cache
+C:\Users\lamia fatima\source\repos\VP_LAB_06_TASK\VP_LAB_06_TASK\obj\Debug\net8.0-windows\ref\VP_LAB_06_TASK.dll
